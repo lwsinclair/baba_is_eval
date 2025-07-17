@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lennart-finke-baba-is-eval-badge.png)](https://mseep.ai/app/lennart-finke-baba-is-eval)
+
 # Baba Is Eval
 
 https://github.com/user-attachments/assets/cb6d0d49-b583-46a2-b262-1cf38279a531
